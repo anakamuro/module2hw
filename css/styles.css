@@ -1,0 +1,59 @@
+body {
+    margin: 0;
+    padding: 0;
+  }
+  
+  #main-title {
+    text-align: center;
+    font-family: "Zen Dots";
+  }
+  
+  section {
+    background-color: #ccc0cb;
+    border: 1px solid black;
+    margin: 5%;
+    padding: 5%;
+    position: relative;
+  }
+  
+  #menu-name1 {
+    float: right;
+    border: 1px solid black;
+    color: black;
+    background-color: #de99d6;
+    width: 150px;
+    text-align: center;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+  }
+  
+  #menu-name2 {
+    float: right;
+    border: 1px solid black;
+    color: white;
+    background-color: #f21344;
+    width: 150px;
+    text-align: center;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+  }
+  
+  #menu-name3 {
+    float: right;
+    border: 1px solid black;
+    color: black;
+    background-color: #abb551;
+    width: 150px;
+    text-align: center;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+  }
+  
+  .words {
+    clear: both;
+    margin-top: 40px;
+  }
+  
